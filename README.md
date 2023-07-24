@@ -4,7 +4,7 @@ This repository contains various standalone programs that I have created. Each p
 
 ## 1. String Analysis Program
 
-**File:** `string_analysis.py`
+**File:** `stringAnalysis.py`
 
 **Description:** This program analyzes a user-provided string and performs various operations, including calculating the length of the string, retrieving the character at the sixth position, extracting the last word(s), and counting the occurrences of each word.
 
@@ -22,6 +22,6 @@ This repository contains various standalone programs that I have created. Each p
 
 ## 4. File Archiver Program
 
-**File:** `file_archiver.py`
+**File:** `organizeFiles.py`
 
 **Description:** This program is used to archive all files with any extension from the current directory and its subdirectories (except for the 'files.zip' and 'zipCompressed.py' files) into a zip archive named 'files.zip'.
